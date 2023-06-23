@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(64, 129, 189);
+    /* display: flex;
+    height: 100vh;
+    justify-content: center; */
+    /* align-items: center; */
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    color: rgb(236, 167, 17);
+    font-size: 5rem;
+}
+
+.pin-div {
+    height: 100px;
+    width: 300px;
+    margin: auto;
+    background-color: rgb(209, 204, 197);
+    border: 10px double black;
+    border-radius: 5%;
+    padding: 20px;
+    margin-bottom: 20px;
+    padding-top: 40px;
+}
+
+.generate-pin {
+    padding: 20px;
+    border: none;
+    border-radius: 5%;
+    background-color: rgba(136, 218, 213, 0.753);
+}
+
+.pressed {
+    background-color: aliceblue;
+}
